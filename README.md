@@ -34,15 +34,16 @@ Whether you're a student, hobbyist, or aspiring ML engineer, this guide lays a s
 ```bash
 git clone https://github.com/jim-X-AI/ANNs.git
 cd ANNs
-
+```
 2. **Install required packages:**
 ```bash
 pip install tensorflow pandas numpy matplotlib
-
+```
 3. **Launch the notebook:**
 ```bash
 jupyter notebook "Beginners guide to ANNs.ipynb"
-
+```
+---
 # 💡 Goals for the Project
 
 - Make deep learning accessible and practical for newcomers.  
