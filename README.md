@@ -77,4 +77,4 @@ This project is open-source and available under the **MIT License**.
 **Abdulazeez Jamiu Oladipupo** — Passionate about using AI and technology to revolutionize Africa by building powerful, affordable digital solutions that empower businesses and inspire the next generation.
 
 - **Email:** jamiuabdulazeez689@gmail.com  
-- **X (Twitter):** [@JamiuOladi55000](https://x.com/JamiuOladi55000)
+- **X (Twitter):** [@jimXBldr](https://x.com/jimXBldr)
